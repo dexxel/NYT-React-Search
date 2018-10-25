@@ -1,4 +1,4 @@
-# React-News-App
+# React-News-App**
 
 **Link to App Demo** 
 [Click Here for Live Link!](/)
