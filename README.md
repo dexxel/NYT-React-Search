@@ -1,7 +1,7 @@
 # React-News-App
 
 **Link to App Demo** 
-[Click Here for Live Link!](/)
+[Click Here for Live Link!](https://quiet-scrubland-88544.herokuapp.com/)
 
 
 ### Overview
