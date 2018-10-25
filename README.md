@@ -1,1 +1,1 @@
-# NYT-React-App
+# React-News-App
